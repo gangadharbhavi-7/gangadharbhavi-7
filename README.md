@@ -2,7 +2,8 @@
 
 <p align="center">
   <em>
-    A passionate <strong>Frontend Developer</strong> and dedicated <strong>Tech Enthusiast</strong>, driven by the art of crafting interactive, visually compelling, and user-centric digital experiences.
+ A passionate <strong>Full Stack Developer</strong> with strong expertise in <strong>Frontend Development</strong> and a deep enthusiasm for <strong>Python</strong>. Skilled in building seamless, interactive, and user-centric applications, I actively explore <strong>AI</strong>, <strong>Data Science</strong>, and <strong>Machine Learning</strong>  to deliver intelligent solutions. My technical journey blends creativity with precision, enabling me to craft impactful digital experiences while continuously expanding my knowledge   across modern technologies.
+
   </em>
 </p>
 
