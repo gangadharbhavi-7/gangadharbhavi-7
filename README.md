@@ -44,38 +44,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
------
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gangadharbhavi-7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharbhavi-7&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharbhavi-7&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<h2 align="center">🏆 Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gangadharbhavi-7&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/gangadharbhavi-7/gangadharbhavi-7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
 
 ---
 
