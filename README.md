@@ -45,32 +45,55 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
 -----
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gangadharbhavi-7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharbhavi-7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharbhavi-7&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
-
+</p>
 
 ---
 
-<!-- <h2 align="center">🏆 Trophies</h2>
+<h2 align="center">🏆 Trophies</h2>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gangadharbhavi-7&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p> -->
+</p>
 
+---
 
---- -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/gangadharbhavi-7/gangadharbhavi-7/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">👀 Profile Visitors</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gangadharbhavi-7&color=blue&style=flat-square" alt="Visitor Count" />
+</p>
+
+---
+
+<h2 align="center">💡 Daily Inspiration</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote Generator" />
+</p>
+
+---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -88,6 +111,6 @@
 
 ---
 
-> **"Arise, awake, and stop not till the goal is reached." – Swami Vivekananda** <
+> **"Take up one idea. Make that one idea your life – think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success." – Swami Vivekananda**
 
 ---
