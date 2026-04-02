@@ -44,8 +44,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
+---
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Python+Developer;AI+ML+Explorer;Lifelong+Learner;Always+Improving+💡" />
+  </a>
+</p>
 
 ---
+
 
 <h2 align="center">👀 Profile Visitors</h2>
 
