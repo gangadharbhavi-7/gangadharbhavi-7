@@ -86,10 +86,6 @@
 
 ---
 
-> *"Strive not to be a success, but rather to be of value." – Albert Einstein*
-
----
-
 > **"Arise, awake, and stop not till the goal is reached." – Swami Vivekananda**
 
 ---
