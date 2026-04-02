@@ -48,29 +48,29 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gangadharbhavi-7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharbhavi-7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharbhavi-7&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 
 ---
 
-<h2 align="center">🏆 Trophies</h2>
+<!-- <h2 align="center">🏆 Trophies</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gangadharbhavi-7&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 
----
+--- -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -88,6 +88,6 @@
 
 ---
 
-> **"Arise, awake, and stop not till the goal is reached." – Swami Vivekananda**
+> **"Arise, awake, and stop not till the goal is reached." – Swami Vivekananda** <
 
 ---
