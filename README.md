@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gangadhar</h1>
+<h1 align="center">Hi 👋, I'm Gangadhar B</h1>
 
 <p align="center">
   <em>
@@ -73,17 +73,23 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gangadharbhavi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:gangadharbhavi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://gangadharbhavi-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gangadharbhavi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gangadharbhavi7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://gangadharbhavi-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
----
-
-> *"Strive not to be a success, but rather to be of value." – Albert Einstein*
 
 ---
 
 > **"Arise, awake, and stop not till the goal is reached." – Swami Vivekananda**
 
----
+---om/in/gangadharbhavi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:gangadharbhavi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://gangadharbhavi-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+</p>
+
