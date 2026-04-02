@@ -60,6 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharbhavi-7&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
 ---
 
 <h2 align="center">🏆 Trophies</h2>
@@ -67,6 +68,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gangadharbhavi-7&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
